@@ -23,7 +23,16 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
+Acessibility is statement we use to describe how the web is perciecived by people with diffrent devices and even people with diffrent impairments.
+we want to create responsive designs for all devices and all issues or as many as we can so that the majority of the world can access our websites.
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+ One way we can make our werbsite accessible is by making it responsive.
+ Another way is to utilize media break points for the diffrent size screen devices. 
+ and a third way is to make it accessible for color blind peopl by using distinguishing markings, boldness, gray scales and borders.
+
 3. How would you explain the concept of a variable to someone new to programming?
 4. What is the purpose of using functions in code?
 
