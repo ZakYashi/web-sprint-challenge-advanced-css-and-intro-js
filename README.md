@@ -34,7 +34,11 @@ we want to create responsive designs for all devices and all issues or as many a
  and a third way is to make it accessible for color blind peopl by using distinguishing markings, boldness, gray scales and borders.
 
 3. How would you explain the concept of a variable to someone new to programming?
+ a variable is a named key property that is directly associated with a value, be it a number, a string or a boolean.
+
 4. What is the purpose of using functions in code?
+
+we use functions in code for effiency. instead of repeating instructions of how we want a program to be ran over and over we create functions once for each set of instructions that must be repeated by the idiot box.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
