@@ -138,16 +138,25 @@ button:hover{
 /* copied media break ppoint from my other project. this must edited to comply with this project.*/
 
 
- /* start of phone styles break points.
+ /* start of phone styles break points.*/
 
 
 @media screen and (max-width: 500px) {
    
-    /*nav.nav-bar{
+    section {
+        display: flex;
         flex-direction: column;
-        text-align:  center
+        text-align:  center;
+        width: 100%;
+        align-content: center;
+        justify-content: center;
     }
-    button.home {
+    img {
+        
+        
+    }
+}
+    /*button.home {
         text-align:  center
     }
     .content-container {
