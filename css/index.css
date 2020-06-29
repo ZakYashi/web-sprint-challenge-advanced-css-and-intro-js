@@ -134,3 +134,40 @@ button:hover{
 .artist img{
     width:100%;
 }
+
+/* copied media break ppoint from my other project. this must edited to comply with this project.*/
+
+
+ /* start of phone styles break points.
+
+
+@media screen and (max-width: 500px) {
+   
+    /*nav.nav-bar{
+        flex-direction: column;
+        text-align:  center
+    }
+    button.home {
+        text-align:  center
+    }
+    .content-container {
+        display: flex;
+        flex-direction: column;
+    }
+    section {
+        text-align: Right;
+       
+        padding: 4% 1.5%;
+        border: 100%;
+        border-spacing: 1px;
+        background-color: rgba(207, 156, 17, 0.842);
+       
+    }
+    .boxes {
+        
+        flex-wrap: wrap;
+        flex-shrink: 3;
+
+    }
+
+    }*/
