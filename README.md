@@ -35,6 +35,7 @@ we want to create responsive designs for all devices and all issues or as many a
 
 3. How would you explain the concept of a variable to someone new to programming?
  a variable is a named key property that is directly associated with a value, be it a number, a string or a boolean.
+ Variables are containesr that we use to store information specific to each container.
 
 4. What is the purpose of using functions in code?
 

@@ -141,22 +141,39 @@ button:hover{
  /* start of phone styles break points.*/
 
 
-@media screen and (max-width: 500px) {
-   
+@media (max-width: 500px) {
+   p {
+       font: red;
+   }
     section {
         display: flex;
         flex-direction: column;
         text-align:  center;
         width: 100%;
         align-content: center;
-        justify-content: center;
+        
+    
+        margin: 0%;
     }
-    img {
+    section div {
+        padding:1%;
+
+    }
+    div.artist img {
+        width: 100%;
+        display: flex;
+        padding: 0%;
+        margin: none;
+        content: 99%;
+        align-content: center;
+    }
+}
+    /*img {
         
         
     }
 }
-    /*button.home {
+    button.home {
         text-align:  center
     }
     .content-container {
